@@ -1,12 +1,15 @@
-# Byte-compiled / cache
+# caches
 __pycache__/
 
-# Parquet data files
+# parquet data
 *.parquet
 
-# OBO ontology files
+# ontology files
 *.obo
 
-# Large zenodo export
+# zenodo export folder
 zenodo/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
 
