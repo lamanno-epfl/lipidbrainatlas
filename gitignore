@@ -1,0 +1,15 @@
+# caches
+__pycache__/
+
+# parquet data
+*.parquet
+
+# ontology files
+*.obo
+
+# zenodo export folder
+zenodo/
+
+# ipynb checkpoints
+.ipynb_checkpoints/
+
